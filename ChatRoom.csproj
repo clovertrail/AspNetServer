@@ -179,10 +179,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="README.md" />
-    <None Include="Properties\PublishProfiles\ChatRoom20181120082730 - Web Deploy.pubxml" />
-    <None Include="Properties\PublishProfiles\ChatRoom20181205104102 - Web Deploy.pubxml" />
-    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
-    <None Include="Properties\PublishProfiles\mywebapp5317 - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.6.4-vsdoc.js" />
     <Content Include="index.html" />
     <Content Include="Scripts\jquery-1.6.4.js" />
