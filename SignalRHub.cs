@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ChatRoom
 {
-    public class ChatHub : Hub
+    public class SignalRHub : Hub
     {
         public void Send(string name, string message)
         {
