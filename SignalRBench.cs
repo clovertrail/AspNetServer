@@ -45,7 +45,7 @@ namespace ChatRoom
 
         public void ConnectionId()
         {
-            Clients.Client(Context.ConnectionId).SendAsync("connectionId", Context.ConnectionId);
+            Clients.Client(Context.ConnectionId).SendAsync("ConnectionId", Context.ConnectionId);
         }
 
         public async Task JoinGroup(string groupName)
