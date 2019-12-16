@@ -200,6 +200,7 @@
     <Compile Include="SignalRBench.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="WebsocketNegotiationHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config">
